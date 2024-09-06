@@ -1,0 +1,25 @@
+{
+  "name": "barber-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "@rocketseat/eslint-config": "^2.2.2",
+    "@types/node": "^22.0.2",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "typescript": "^5.4.5",
+    "vite-tsconfig-paths": "^5.0.1",
+    "vitest": "^2.0.5"
+  }
+}
